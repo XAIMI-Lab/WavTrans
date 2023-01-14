@@ -10,7 +10,7 @@ Requirements:
 Our code has been tested with Python 3.6, Pytorch 1.4.0, torchvision 0.5.0, CUDA 10.0 on Ubuntu 18.04.
 
 
-### To Run Our Code
+### Run
 - Train the model
 ```bash
 python train.py
